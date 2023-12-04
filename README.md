@@ -1,3 +1,4 @@
+# Latest version: v3
 # How to use it?
 You need add link in your html file. <br>
 For example: `<link rel="stylesheet" href="https://baguettecss.github.io/index/v2.css">`
